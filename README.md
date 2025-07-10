@@ -10,9 +10,9 @@ Welcome to the GitHub repository for **La Gxoja Projekto**, a bold and creative 
 
 The accompanying materials form an introduction to the key principles, comparisons with other major philosophies, and the real-world practices (known as CHEATs – Comprehensive Happiness Enhancing Activities and Tasks) that form the backbone of this joyful approach.
 
-I also have developed chatbots, so that people can actually try out the La Gxoja Filozofio in a practical way. I have samples of chats with my chatbot wherein I was discussing my emails with Professors Wendy Doniger (U. Chicago, South Asian Studies), Michael Witzel (Harvard, South Asian Studies), Al Roth (Stanford, Economics, Nobel Laureate), Sonja Lyubomirsky (UC Riverside), and many other fine researchers.
+I also have developed chatbots, so that people can actually try out the La Gxoja Filozofio in a practical way. I have a GitHub repo where I have samples of chats with my chatbot wherein I was discussing my emails with Professors Wendy Doniger (U. Chicago, South Asian Studies), Michael Witzel (Harvard, South Asian Studies), Al Roth (Stanford, Economics, Nobel Laureate), Sonja Lyubomirsky (UC Riverside), and many other fine researchers. The chatbot can help compose professional and respectful emails, and even make the whole process of sending emails feel utterly joyful. It can even make the task of calling a bank to close down an account feel joyful. From the highly interesting to the highly mundane, the chatbot makes you reorient your thinking in new ways that I personally have not seen anywhere else.
 
-Always read the latest version of each paper, slide deck or other material in each directory.
+Note to the reader: always read the latest version of each paper, slide deck or other material in each directory, in case there are multiple versions.
 
 ## 🌍 Why This Matters
 
