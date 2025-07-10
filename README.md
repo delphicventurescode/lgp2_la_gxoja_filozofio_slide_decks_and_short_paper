@@ -22,7 +22,7 @@ We live in an age of anxiety, burnout, and alienation. *La Gxoja Projekto* is an
 
 In addition to *La Gxoja Filozofio*, I have also developed a new interpretive lens on South Asian history called *La Gxoja Historio*—a retelling that centers joy, pluralism, and intellectual curiosity as guiding themes through the complex and often turbulent narratives of the region. Rather than focusing solely on conquest or suffering, this perspective seeks to highlight moments of synthesis, creativity, and resilience across time.
 
-I have also proposed a new *Theory of the Firm*, rooted in both classical economic insights and the modern psychology of meaning and well-being. This theory challenges conventional models that prioritize profit maximization alone, and instead emphasizes purpose, fairness, and human-centered design as foundational to organizational success. If you're curious to learn more about either of these explorations, please feel free to reach out.
+I have also proposed a new *Theory of the Firm*, rooted in classical economic insights. This theory is a rival to other theories of the firm such as those by Ronald Coase and Oliver Williamson. If you're curious to learn more about either of these explorations, please feel free to reach out.
 
 
 ## 📬 Get Involved
