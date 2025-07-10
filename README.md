@@ -18,6 +18,13 @@ Note to the reader: always read the latest version of each paper, slide deck or 
 
 We live in an age of anxiety, burnout, and alienation. *La Gxoja Projekto* is an attempt to carve a different path—one that places *joy* at the heart of personal development, community building, and intellectual life. This isn’t a rejection of the past, but a remix: informed by tradition, enriched by science, and carried forward by creativity.
 
+## 📜 More from La Gxoja Projekto
+
+In addition to *La Gxoja Filozofio*, I have also developed a new interpretive lens on South Asian history called *La Gxoja Historio*—a retelling that centers joy, pluralism, and intellectual curiosity as guiding themes through the complex and often turbulent narratives of the region. Rather than focusing solely on conquest or suffering, this perspective seeks to highlight moments of synthesis, creativity, and resilience across time.
+
+I have also proposed a new *Theory of the Firm*, rooted in both classical economic insights and the modern psychology of meaning and well-being. This theory challenges conventional models that prioritize profit maximization alone, and instead emphasizes purpose, fairness, and human-centered design as foundational to organizational success. If you're curious to learn more about either of these explorations, please feel free to reach out.
+
+
 ## 📬 Get Involved
 
 If you find these ideas resonant, challenging, or even joyfully absurd, feel free to reach out, open issues, or start a conversation. This is a living project—and there’s room for you in it.
